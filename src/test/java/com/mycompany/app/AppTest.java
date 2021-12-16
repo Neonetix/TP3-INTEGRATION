@@ -12,18 +12,18 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
-        assertTrue( true );
+        assertTrue( true);
     }
   
     @Test
-    public void assertTrue()
+    public void testAssertTrue()
     {
-        assertTrue( true );
+        assertTrue(true);
     }
 
     @Test
-    public void assertFalse()
+    public void testAssertFalse()
     {
-        assertTrue( false );
+        assertTrue(false);
     }
 }
